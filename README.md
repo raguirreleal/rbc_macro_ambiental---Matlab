@@ -8,6 +8,12 @@ Este artigo estuda como as políticas ambientais devem responder de forma ótima
 
 **Palavras-chave:** Políticas Ambientais; Emissão de Carbono; Ciclos Reais de Negócios; Brasil.
 
+***
+
+*Simulações e análises com uso do Matlab.*
+
+***
+
 O Brasil é signatário de diversos acordos multilaterais no esforço global de redução dos gases de efeito estufa (GEE), mesmo não tendo metas obrigatórias de mitigação de dióxido de carbono (CO2). Porém, as políticas ambientais adotadas até o momento não incluem o controle formal das emissões, tais como impostos ou comércio de quotas. A preocupação com os efeitos das mudanças climáticas tem levado alguns setores do governo a discutir a adoção de mecanismos tributários para uma economia de baixo carbono, sinalizando uma mudança de atitude. Assim, analisar como tais políticas ambientais devem responder de forma ótima aos ciclos econômicos no Brasil é essencial para auxiliar a adoção e formulação dessas políticas.
 
 Questões ambientais como as emissões antropogênicas de GEE estão associadas a flutuações econômicas e choques de produtividade (BAUMOL e OATES, 1988). Recentemente, alguns estudos passaram a empregar modelos estocásticos dinâmicos de equilíbrio geral através da estrutura básica do modelo de Ciclos Reais de Negócios (RBC), adicionando a poluição como uma externalidade em seus modelos (FISCHER e HEUTEL, 2013). Entretanto, nenhum trabalho empregando tal metodologia foi feito para o Brasil. Assim, o objetivo deste artigo é estudar políticas ambientais formais de controle de emissão de CO2 que respondam de forma dinâmica aos ciclos econômicos no Brasil. Mais especificamente, avaliamos se (i) as reduções das externalidades geradas pelas emissões de CO2 compensam o custo desta mitigação; (ii) como as políticas de imposto e quota de emissões devem responder a choques de produtividade na economia; e (iii) qual a regra de decisão ótima que deve ser adotada para as políticas de mitigação. Para isso utilizamos um modelo RBC com externalidades de poluição proposto por Heutel (2012), calibrado com dados da economia brasileira durante o período de 1980 a 2010.
