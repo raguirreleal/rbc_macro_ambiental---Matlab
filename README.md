@@ -22,14 +22,21 @@ Os principais resultados apontam para três fatos. Primeiro, podemos concluir qu
 
 O artigo é o primeiro a estudar a adoção de políticas ambientais dinâmicas para o Brasil através de um modelo de RBC com externalidade de poluição. Os resultados podem subsidiar as discussões sobre políticas de mitigação de externalidades no Brasil, além de contribuir com a literatura de crescimento econômico.
 
+
 FIGURA 2: Respostas ao impulso de +1% em $a_(t=1)$ – Variáveis econômicas
+
 ![image](https://github.com/raguirreleal/rbc_macro_ambiental--Matlab/assets/144735714/0f42e7c0-e5b7-49a0-85c4-fb4bdf7f4a2a)
 
+
 FIGURA 3: Respostas ao impulso de +1% em $a_(t=1)$ – Variáveis ambientais e de política
+
 ![image](https://github.com/raguirreleal/rbc_macro_ambiental--Matlab/assets/144735714/f8fb6301-7186-4a27-b972-e26ec5b03969)
 
+
 FIGURA 4: Simulação de choques aleatórios em $a_t$
+
 ![image](https://github.com/raguirreleal/rbc_macro_ambiental--Matlab/assets/144735714/e6a66348-1185-4385-8782-e191a8e6ccf4)
+
 
 Os resultados nos indicam que o equilíbrio ótimo é uma taxa de imposto positiva que tenha um caráter dinâmico, aumentando em períodos de expansão econômica, e diminuindo em períodos de crise. Entretanto, o aumento da taxa de imposto em períodos de expansão não deve ser tão grande a ponto de reduzir o nível de emissões. É natural que se permita um nível de emissões maior após um choque positivo de produtividade. Isso faz com que, equivalentemente, a política de teto deva ser flexibilizada após este choque. Assim, ambas as políticas tem um caráter pró-cíclico. 
 
