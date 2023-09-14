@@ -11,7 +11,9 @@ Este artigo estuda como as políticas ambientais devem responder de forma ótima
 ***
 
 *Simulações e análises com uso do Matlab.*
+
 Códigos baseados no original de Heutel, Garth. “How should environmental policy respond to business cycles? Optimal policy under persistent productivity shocks”. Review of Economic Dynamics 15, nº 2 (abril de 2012): 244–64. https://doi.org/10.1016/j.red.2011.05.002.
+
 Necessários os códigos de Anderson-Moore Algorithm (https://www.federalreserve.gov/econres/ama-index.htm) para executar os arquivos.
 
 ***
