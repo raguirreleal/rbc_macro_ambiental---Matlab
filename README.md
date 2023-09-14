@@ -23,12 +23,12 @@ Os principais resultados apontam para três fatos. Primeiro, podemos concluir qu
 O artigo é o primeiro a estudar a adoção de políticas ambientais dinâmicas para o Brasil através de um modelo de RBC com externalidade de poluição. Os resultados podem subsidiar as discussões sobre políticas de mitigação de externalidades no Brasil, além de contribuir com a literatura de crescimento econômico.
 
 
-FIGURA 2: Respostas ao impulso de +1% em $a_(t=1)$ – Variáveis econômicas
+FIGURA 2: Respostas ao impulso de +1% em $a_{t=1}$ – Variáveis econômicas
 
 ![image](https://github.com/raguirreleal/rbc_macro_ambiental--Matlab/assets/144735714/0f42e7c0-e5b7-49a0-85c4-fb4bdf7f4a2a)
 
 
-FIGURA 3: Respostas ao impulso de +1% em $a_(t=1)$ – Variáveis ambientais e de política
+FIGURA 3: Respostas ao impulso de +1% em $a_{t=1}$ – Variáveis ambientais e de política
 
 ![image](https://github.com/raguirreleal/rbc_macro_ambiental--Matlab/assets/144735714/f8fb6301-7186-4a27-b972-e26ec5b03969)
 
