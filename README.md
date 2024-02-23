@@ -16,6 +16,9 @@ Códigos baseados no original de Heutel, Garth. “How should environmental poli
 
 Necessários os códigos de Anderson-Moore Algorithm (https://www.federalreserve.gov/econres/ama-index.htm) para executar os arquivos.
 
+Executar o script 'SolveSystem.m' para resolver o problema do planejador central, que chamará 'steadystate.m' para obter os valores de steady state. Os parâmetros de calibração são definidos no início do arquivo 'SolveSystem.m'.
+Da mesma forma, o script 'SolveSystem_tax.m' (e steadystate_tax.m) resolve o problema do modelo decentralizado, com impostos sobre emissões.
+
 ***
 
 O Brasil é signatário de diversos acordos multilaterais no esforço global de redução dos gases de efeito estufa (GEE), mesmo não tendo metas obrigatórias de mitigação de dióxido de carbono (CO2). Porém, as políticas ambientais adotadas até o momento não incluem o controle formal das emissões, tais como impostos ou comércio de quotas. A preocupação com os efeitos das mudanças climáticas tem levado alguns setores do governo a discutir a adoção de mecanismos tributários para uma economia de baixo carbono, sinalizando uma mudança de atitude. Assim, analisar como tais políticas ambientais devem responder de forma ótima aos ciclos econômicos no Brasil é essencial para auxiliar a adoção e formulação dessas políticas.
