@@ -16,8 +16,8 @@ Códigos baseados no original de Heutel, Garth. “How should environmental poli
 
 Necessários os códigos de Anderson-Moore Algorithm (https://www.federalreserve.gov/econres/ama-index.htm) para executar os arquivos.
 
-Executar o script 'SolveSystem.m' para resolver o problema do planejador central, que chamará 'steadystate.m' para obter os valores de steady state. Os parâmetros de calibração são definidos no início do arquivo 'SolveSystem.m'.
-Da mesma forma, o script 'SolveSystem_tax.m' (e steadystate_tax.m) resolve o problema do modelo decentralizado, com impostos sobre emissões.
+- *Executar o script 'SolveSystem.m' para resolver o problema do planejador central, que chamará 'steadystate.m' para obter os valores de steady state. Os parâmetros de calibração são definidos no início do arquivo 'SolveSystem.m'.
+Da mesma forma, o script 'SolveSystem_tax.m' (e steadystate_tax.m) resolve o problema do modelo decentralizado, com impostos sobre emissões.*
 
 ***
 
