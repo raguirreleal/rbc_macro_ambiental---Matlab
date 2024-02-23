@@ -8,7 +8,7 @@ clear;
 global beta delta rho alpha eta theta1 theta2 gamma phic d2 d1 d0 erowcoef;
 
 
-
+%{
 beta = 0.98267; %discount rate
 delta = 0.025; %capital depreciation
 rho = .95; %persistence of TFP shock
@@ -30,12 +30,10 @@ erowcoef = 4; %coefficient relating how rest-of-world emissions compare to domes
 damage_scale = 5.3024*(1-.9979)/(1-eta); %new values of eta mean this needs to be rescaled
 d2 = 1.4647*10^(-8)/damage_scale^2;
 d1 = -6.6722*10^(-6)/damage_scale;
+%}
 
 
-
-%{
-
-% calibração brasil 
+% calibraÃ§Ã£o brasil 
  
 beta   = 0.98;      % - 
 delta  = 0.025;     % - 
@@ -45,21 +43,19 @@ alpha  = 0.40;      % -
 
 eta    = 0.9979;       % de Reilly (1992) e Heutel - pollution depreciation 
 theta1 = 0.04183;      % - Nordhaus - abatement cost equation parameters, from Nordhaus 
-                       % ...arquivo 'RICE_042510'; planilha 'LatAm'; célula 'C31'
-theta2 = 2.8;          % este... da planilha 'Parameters'; célula 'C63' (manteve)
-gamma  = 1 - 1.07024;  % via primeira diferença das séries 
+                       % ...arquivo 'RICE_042510'; planilha 'LatAm'; cÃ©lula 'C31'
+theta2 = 2.8;          % este... da planilha 'Parameters'; cÃ©lula 'C63' (manteve)
+gamma  = 1 - 1.07024;  % via primeira diferenÃ§a das sÃ©ries 
 phic   = 2;            % - 
 d2     = 9.26191*10^(-9);   % - %damage function parameters, from Nordhaus
 d1     = -2.16474*10^(-6);   % - 
 d0     = -0.0029736;        % - 
 erowcoef  = 80;          % - pelo CDIAC (2010) - coefficient relating how rest-of-world emissions compare to domestic emissions (era 4)
                          % CDIAC: em 2010 total mundo = 9.167.000; Brasil = 114.468; US = 1.481.608 (thousand metric tons of carbon)
-                         % resultado para Brazil é erowcoef  = 80, mas explode antes
+                         % resultado para Brazil Ã© erowcoef  = 80, mas explode antes
 dmg_scl  = 5.3024;       % damage scale - To scale the pollution levels and get the damage function correct (manteve)
 d2       = d2/dmg_scl^2; 
 d1       = d1/dmg_scl;   
-
-%}
 
 
 imprespsize = .01;
